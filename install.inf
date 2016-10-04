@@ -1,0 +1,5 @@
+[info]
+title=Linter for Ruby, using rubocop
+desc=Linter for CudaLint, adds support for Ruby lexer, using rubocop
+type=cudatext-plugin
+subdir=cuda_lint_rubocop
